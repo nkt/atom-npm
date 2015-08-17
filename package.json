@@ -1,7 +1,7 @@
 {
   "name": "npm",
   "main": "./src/index",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "NPM commands in Atom",
   "keywords": [
     "npm"

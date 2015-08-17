@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "main": "./src/index",
+  "version": "0.0.0",
+  "description": "NPM commands in Atom",
+  "keywords": [
+    "npm"
+  ],
+  "repository": "https://github.com/nkt/atom-npm",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "npm": "2.14.0"
+  }
+}
